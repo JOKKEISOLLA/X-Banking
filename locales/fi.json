@@ -1,0 +1,18 @@
+{
+    "balance": "Saldo",
+    "withdraw": "Nosta",
+    "deposit": "Talleta",
+    "transfer": "Tilisiirto",
+    "atm": "Automaatti",
+    "bank": "Pankki",
+    "howmuch": "Kuinka paljon?",
+    "id": "ID?",
+    "errorvalue": "Virheellinen summa!",
+    "withdrawn": "Nostit",
+    "deposited": "Talletit",
+    "couldntfind": "Vastaanottajaa ei löytynyt",
+    "transfertoyu": "Et voi siirtää itsellesi!",
+    "notenought": "Ei tarpeeksi rahaa",
+    "successtransfer": "Suoritit tilisiirron summalta",
+    "receivedtransfer": "Vastaanotit tilisiirron summalta",
+}

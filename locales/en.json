@@ -1,0 +1,19 @@
+
+{
+    "balance": "Balance",
+    "withdraw": "Withdraw",
+    "deposit": "Deposit",
+    "transfer": "Transfer",
+    "atm": "ATM",
+    "bank": "Bank",
+    "howmuch": "How much?",
+    "id": "ID?",
+    "errorvalue": "Invalid amount!",
+    "withdrawn": "Withdrawn",
+    "deposited": "Deposited",
+    "couldntfind": "Recipient not found",
+    "transfertoyu": "You can't transfer to yourself!",
+    "notenought": "Not enough money",
+    "successtransfer": "You performed a transfer of amount",
+    "receivedtransfer": "You received a transfer of amount",
+}
