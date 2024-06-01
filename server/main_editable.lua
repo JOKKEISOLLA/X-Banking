@@ -1,4 +1,4 @@
-local Webhook = 'https://discord.com/api/webhooks/1212006747494162513/5cvXwCoDc-tezx1njnpAq9H_ecAGJgfHYYNdG7ks6MEdmlbH8HPc0Si8e2jnobfXYLU1'
+local Webhook = 'edit me'
 
 Log = function(source, type, summa)
     if X.EnableLogs then
